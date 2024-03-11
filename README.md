@@ -17,3 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+![image](https://github.com/MatusG128/rutaPag-Matus0380/assets/143744150/a363e8c4-3774-4751-9301-173952b110e3)
+
+![image](https://github.com/MatusG128/rutaPag-Matus0380/assets/143744150/21fef1ea-5888-49aa-8712-97b9895dcae5)
+
+![image](https://github.com/MatusG128/rutaPag-Matus0380/assets/143744150/abc3105a-e17a-44ec-89c1-ff496229e4c2)
